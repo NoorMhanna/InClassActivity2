@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InClass_Two</string>
+    <array name="spinnerList" >
+        <item>FullTime</item>
+        <item>PartTime</item>
+    </array>
+</resources>
